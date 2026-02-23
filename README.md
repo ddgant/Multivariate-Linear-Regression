@@ -1,19 +1,26 @@
 # Multivariate Linear Regression
 
-Implementación de regresión lineal multivariada para predecir 
-precios de casas usando el dataset de Valladolid.
+Implementation of multivariate linear regression to predict 
+house prices using the Valladolid dataset.
 
-## Métodos implementados
+## Team
+- Balam Euan Cesar Arturo
+- De Gante Pérez Diego
+- Garcia Martinez Rodrigo
+- Polanco González Roselyn
+- Ramirez Rubio Mauricio
+
+## Methods implemented
 - Scikit-learn
-- Ecuación Normal
-- SVD Pseudoinversa
+- Normal Equation
+- SVD Pseudoinverse
 - Batch Gradient Descent
 - Stochastic Gradient Descent
 - Mini-Batch Gradient Descent
 
-## Cómo ejecutar
-1. Instalar dependencias: `pip install -r requirements.txt`
-2. Abrir el notebook: `jupyter notebook Multivariate-linear-regression.ipynb`
+## How to run
+1. Install dependencies: `pip install -r requirements.txt`
+2. Open the notebook: `jupyter notebook Multivariate-linear-regression.ipynb`
 
 ## Dataset
-`houses.csv` contiene tamaño (ft²), número de cuartos y precio de casas.
+`houses.csv` contains house size (ft²), number of rooms and price.
